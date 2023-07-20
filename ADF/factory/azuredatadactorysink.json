@@ -1,0 +1,9 @@
+{
+	"name": "azuredatadactorysink",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a023c355-b6cd-4324-bfba-8fa113e6b752",
+		"tenantId": "7402ba32-e7dc-498c-ba56-0fad5467a840"
+	}
+}
